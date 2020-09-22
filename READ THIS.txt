@@ -1,0 +1,14 @@
+Before you can use this program you need to download the BASS Audio Library.
+The URLs are below:
+
+http://www.un4seen.com/files/bass20.zip
+http://www.un4seen.com/files/basswm20.zip
+http://www.un4seen.com/files/basscd20.zip
+http://www.un4seen.com/files/bassenc20.zip
+
+When you have downloaded these, copy the BASS.dll, bASSCD.dll, BASSWMA.dll and BASSENC.dll to your system directory 
+or the compiled program directory.
+
+If you want MP3 Encoding goto www.mp3dev.org
+If you want OGG Encoding goto www.vorbis.com
+Mve the LAME.exe and OGGENC.exe into the compiled app path
